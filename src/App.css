@@ -1,5 +1,5 @@
 body {
-    font-family: 'Josefin Sans';
+    font-family: 'Nunito', sans-serif;
     background-color: #FFFAFB;
   }
   
@@ -55,11 +55,12 @@ body {
   
   .hero-banner-img {
     position: absolute;
-    right: 40px;
+    right: 80px;
     top: 0px;
     width: 700px;
     height: 900px;
     margin-top: -330px;
+    border-bottom-left-radius: 90px;
   
   }
   
