@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom"
-import { Stack, Typography } from '@mui/material'
-import { borderBottom } from '@mui/system'
+import { Stack } from '@mui/material'
 
 const Navbar = () => {
   return (
