@@ -36,7 +36,7 @@ const SearchBar = ({setExercises, bodyPart, setBodyPart}) => {
         mb="50px"
         textAlign="center"
       >
-        Avsome Exercise You <br />
+        Awsome Exercise You <br />
         Should Know
       </Typography>
       <Box position="relative" mb="72px">
