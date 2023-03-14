@@ -22,7 +22,7 @@ export const exerciseOptions=
   };
   
 export const fetchData=async(url,options)=>{
-    const resp=await fetch(url,options)
-    const data=await resp.json()
-    return data
+  const resp = await fetch(url, options);
+  const data = await resp.json();
+  return data;
 }
